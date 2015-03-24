@@ -1,9 +1,9 @@
 {
-	"name": "newcrud",
+	"name": "selfyii/newcrud",
     "version": "1.0",
     "type": "yiicurd-extension",
     "description": "提供yiicrud新生成",
-    "keywords": ['crud','yiicrud'],
+    "keywords": ['new','crud','newcrud'],
 	"authors": [
         {
             "name": "cuijianwei",
