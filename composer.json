@@ -3,7 +3,7 @@
     "version": "1.0",
     "type": "yiicurd-extension",
     "description": "提供yiicrud新生成",
-    "keywords": ['new','crud','newcrud'],
+    "keywords": ["new","crud","newcrud"],
 	"authors": [
         {
             "name": "cuijianwei",
